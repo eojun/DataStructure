@@ -1,0 +1,4 @@
+﻿  listrec.cpp
+c:\users\grayd\desktop\recursion\recursion\listrec.cpp(13): warning C5037: 'List<LE>::List': 클래스 템플릿 멤버의 확장 정의에는 기본 인수가 포함될 수 없습니다.
+  recursion.vcxproj -> C:\Users\grayd\Desktop\recursion\Debug\recursion.exe
+  recursion.vcxproj -> C:\Users\grayd\Desktop\recursion\Debug\recursion.pdb (Partial PDB)
