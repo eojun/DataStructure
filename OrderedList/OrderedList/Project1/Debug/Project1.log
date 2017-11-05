@@ -1,0 +1,29 @@
+﻿  OrderedList.cpp
+c:\users\grayd\desktop\project1\project1\listarray.h(36): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  c:\users\grayd\desktop\project1\project1\listarray.h(72): note: 컴파일 중인 클래스 템플릿 인스턴스화 'List<DataType>'에 대한 참조를 확인하세요.
+c:\users\grayd\desktop\project1\project1\listarray.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(39): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(48): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(50): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(54): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(56): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.h(63): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(49): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(83): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(110): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(170): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(187): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(202): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(222): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\listarray.cpp(242): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\orderedlist.h(31): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  c:\users\grayd\desktop\project1\project1\orderedlist.h(46): note: 컴파일 중인 클래스 템플릿 인스턴스화 'OrderedList<DataType,KeyType>'에 대한 참조를 확인하세요.
+c:\users\grayd\desktop\project1\project1\orderedlist.h(32): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\orderedlist.h(36): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\grayd\desktop\project1\project1\orderedlist.h(39): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  test4.cpp
+  Project1.vcxproj -> C:\Users\grayd\Desktop\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\grayd\Desktop\Project1\Debug\Project1.pdb (Partial PDB)
