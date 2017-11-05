@@ -1,0 +1,10 @@
+﻿  test1.cpp
+c:\users\grayd\desktop\grayduck\study\2017-2학기 동국대\자료구조와실습\lab1\logbook\logbook\test1.cpp(22): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\grayd\desktop\grayduck\study\2017-2학기 동국대\자료구조와실습\lab1\logbook\logbook\test1.cpp(20): warning C4101: 'dofw' :참조되지 않은 지역 변수입니다.
+c:\users\grayd\desktop\grayduck\study\2017-2학기 동국대\자료구조와실습\lab1\logbook\logbook\test1.cpp(21): warning C4101: 'stop' :참조되지 않은 지역 변수입니다.
+  Logbook.cpp
+c:\users\grayd\desktop\grayduck\study\2017-2학기 동국대\자료구조와실습\lab1\logbook\logbook\logbook.cpp(103): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  Logbook.vcxproj -> C:\Users\grayd\Desktop\grayduck\study\2017-2학기 동국대\자료구조와실습\lab1\Logbook\Logbook\Debug\Logbook.exe
+  Logbook.vcxproj -> C:\Users\grayd\Desktop\grayduck\study\2017-2학기 동국대\자료구조와실습\lab1\Logbook\Logbook\Debug\Logbook.pdb (Partial PDB)
